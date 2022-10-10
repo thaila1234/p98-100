@@ -23,7 +23,7 @@ function speak(){
         imgId = "selfie1";
         takeSelfie();
         //save();
-    }, 10000)
+    }, 5000)
     setTimeout(function(){
         imgId = "selfie2";
         takeSelfie();
@@ -33,7 +33,7 @@ function speak(){
         imgId = "selfie3";
         takeSelfie();
         //save();
-    }, 10000)
+    }, 15000)
     temp(cont);
 }
 
